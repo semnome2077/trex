@@ -1,2 +1,1 @@
-# trex
-jogo do trex pra celular 
+# C19-SA
